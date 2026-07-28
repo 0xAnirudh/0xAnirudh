@@ -1,6 +1,6 @@
 <h1>
 Hi, I'm Anirudh Chourey!
-<img align="right" width="68" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif">
+<img align="right" width="60" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif">
 </h1>
 
 I am a Full-Stack Engineer and Competitive Programmer pursuing a B.E. in Information Technology at UIETH, Panjab University (2023–2027). Specialized in architecting scalable MERN systems, robust Web3 applications, and mastering complex data structures and algorithms.
@@ -18,7 +18,7 @@ I am a Full-Stack Engineer and Competitive Programmer pursuing a B.E. in Informa
       <h3>About Me</h3>
       <hr>
       <ul>
-        <li><strong>Algorithmic Proficiency:</strong> LeetCode Knight (1800+ Rating) | CodeChef 3-Star | 300+ DSA problems solved.</li>
+        <li><strong>Algorithmic Proficiency:</strong> LeetCode Knight (1800+ Rating) | CodeChef 3-Star | 400+ DSA problems solved.</li>
         <li><strong>Experience:</strong> MERN Stack Intern at Polytropic Services Pvt. Ltd., building secure APIs and responsive UIs.</li>
         <li><strong>Previous Execution:</strong> Core Team Lead @ YatuMart.</li>
         <li><strong>Active Leadership:</strong> Communication Head @ Training & Placement Cell.</li>
@@ -26,12 +26,7 @@ I am a Full-Stack Engineer and Competitive Programmer pursuing a B.E. in Informa
       </ul>
       <br>
       <p>
-        <a href="https://anirudhchourey.vercel.app/"><img height="25" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-        <a href="https://linkedin.com/in/8055anirudh"><img height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-        <a href="https://github.com/0xAnirudh"><img height="25" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-        <a href="mailto:anirudhchourey5@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-        <a href="https://leetcode.com/"><img height="25" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
-        <a href="https://www.codechef.com/"><img height="25" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"></a>
+        <a href="https://anirudhchourey.vercel.app/"><img height="24" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a> <a href="https://linkedin.com/in/8055anirudh"><img height="24" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://github.com/0xAnirudh"><img height="24" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="mailto:anirudhchourey5@gmail.com"><img height="24" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://leetcode.com/"><img height="24" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a> <a href="https://www.codechef.com/"><img height="24" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"></a>
       </p>
     </td>
     <td width="30%" valign="top" align="center">
